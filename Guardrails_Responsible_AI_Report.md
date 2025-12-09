@@ -1,6 +1,4 @@
-Guardrails for Responsible AI
-
-
+# Guardrails for Responsible AI
 
 1. Introduction
 
