@@ -1,5 +1,5 @@
 outs:
-- md5: ec351f366c55f063d0910d3a0bcf9117
-  size: 3582
+- md5: 4cc1cb20becd2b45cbd04836abb3dbe3
+  size: 3544
   hash: md5
   path: uk_energy_data.csv
